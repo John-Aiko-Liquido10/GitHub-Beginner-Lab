@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             lblName = new Label();
+            lblContact = new Label();
             SuspendLayout();
             // 
             // lblName
@@ -40,11 +41,21 @@
             lblName.TabIndex = 0;
             lblName.Text = "label1";
             // 
+            // lblContact
+            // 
+            lblContact.AutoSize = true;
+            lblContact.Location = new Point(41, 72);
+            lblContact.Name = "lblContact";
+            lblContact.Size = new Size(50, 20);
+            lblContact.TabIndex = 1;
+            lblContact.Text = "label1";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(444, 113);
+            Controls.Add(lblContact);
             Controls.Add(lblName);
             Name = "Form1";
             Text = "Form1";
@@ -55,5 +66,6 @@
         #endregion
 
         private Label lblName;
+        private Label lblContact;
     }
 }

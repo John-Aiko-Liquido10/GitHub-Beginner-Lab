@@ -7,6 +7,7 @@ namespace StudentProfile
             InitializeComponent();
 
             lblName.Text = "Student Profile - GitHub Beginner Lab";
+            lblContact.Text = "Contact Number: 09171234567";
         }
     }
 }
