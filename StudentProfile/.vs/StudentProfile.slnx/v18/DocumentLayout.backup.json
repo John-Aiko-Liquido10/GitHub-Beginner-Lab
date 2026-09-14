@@ -22,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KimJo\\source\\repos\\John-Aiko-Liquido10\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentProfile\\Form1.cs",
+              "ToolTip": "C:\\Users\\KimJo\\source\\repos\\John-Aiko-Liquido10\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs*",
+              "RelativeToolTip": "StudentProfile\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T09:56:35.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -43,19 +56,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\KimJo\\source\\repos\\John-Aiko-Liquido10\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs",
-              "RelativeDocumentMoniker": "StudentProfile\\Form1.cs",
-              "ToolTip": "C:\\Users\\KimJo\\source\\repos\\John-Aiko-Liquido10\\GitHub-Beginner-Lab\\StudentProfile\\StudentProfile\\Form1.cs*",
-              "RelativeToolTip": "StudentProfile\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:56:35.438Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
