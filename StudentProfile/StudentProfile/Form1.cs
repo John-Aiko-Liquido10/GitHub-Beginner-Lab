@@ -6,7 +6,7 @@ namespace StudentProfile
         {
             InitializeComponent();
 
-            lblName.Text = "Student Profile - Juan Dela Cruz";
+            lblName.Text = "Student Profile - GitHub Beginner Lab";
         }
     }
 }
